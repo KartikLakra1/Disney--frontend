@@ -14,13 +14,11 @@ function App() {
 
   return (
     <div className="">
-        <Header/>
-        
-        <Slider/>
 
-        <ProductionHouse/>
-
-        <GenreMovieList/>
+      <Header />
+      <Slider />
+      <ProductionHouse />
+      <GenreMovieList />
     </div>
   )
 }
